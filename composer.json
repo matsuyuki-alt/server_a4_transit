@@ -1,0 +1,14 @@
+{
+  "name": "yuki_matsuura/transit",
+  "description": "provide a server side service of Transit",
+  "autoload": {
+    "psr-4": {
+      "yuki_matsuura\\transit\\": "src/"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4.4",
+    "symfony/yaml": "^7.1",
+    "ext-pdo": "*"
+  }
+}

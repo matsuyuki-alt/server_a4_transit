@@ -1,0 +1,4 @@
+---
+server: development # Choose if your server is "development" server or "production" server
+
+...
